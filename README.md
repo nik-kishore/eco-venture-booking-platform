@@ -115,25 +115,19 @@ The project was developed using:
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](assets/homepage.png)
 
 ### Packages Page
 
-![Packages](screenshots/packages.png)
+![Packages](assets/packages.png)
 
 ### Booking Page
 
-![Booking](screenshots/booking.png)
+![Booking](assets/booking_page.png)
 
-### Contact Us
+### Logo
 
-![Contact Us](screenshots/contact-us.png)
-
----
-
-## Project Architecture
-
-![Architecture](screenshots/architecture.png)
+![Contact Us](assets/LOGO.png)
 
 ---
 
